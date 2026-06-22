@@ -1,0 +1,5 @@
+This script is designed to be a helpful chain of commands to commit the rules of OpSec. It has a Mac Changer,Machine ID nullify,Emulate Traffic with Netem 
+(Packet Loss,Jitter,Latency), RAM Wipe,vacuuming your system,change your Hostname (Hostshifter), Flush DNS-Cache, delete Logs and rotating logs, check UFW
+rules,check if you have a VPN active (if not it outputs awarning) 
+
+I will update this tomorrow.
